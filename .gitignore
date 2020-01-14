@@ -3,3 +3,6 @@ Thumbs.db
 
 # ipynb
 .ipynb_checkpoints/
+
+# python
+__pycache__/
